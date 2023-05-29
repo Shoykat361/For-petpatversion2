@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">For petpat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="otp_verified_successfully">OTP verified successfully</string>
+    <string name="next">Next</string>
+    <string name="let_s_start_by_getting_your_account_setup">Let’s start by getting your account setup</string>
+    <string name="how_to_provide_the_service">How to provide the service</string>
+    <string name="company_name">Company Name</string>
+    <string name="pet_house">Pet House</string>
+    <string name="address">Address</string>
+    <string name="branch">Branch</string>
+    <string name="i_have_accepted_terms_conditions">I have accepted Terms Conditions</string>
+    <string name="search_servicesproducts">Search Services  &amp;  Products</string>
+</resources>
